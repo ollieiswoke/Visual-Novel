@@ -16,8 +16,8 @@ public class SceneSelect : MonoBehaviour
     {
 
     }
-    void LoadSceneSelect()
+    public void LoadSceneSelect()
     {
-        SceneManager.LoadScene(1, LoadSceneMode.Single);
+        Application.LoadLevel(1);
     }
 }
