@@ -1,0 +1,6 @@
+Soft_Jock, "Hey bro! Long time no see!", 0, R
+Lilith, "Wow, that's so crazy that I'm seeing you here during work hours...", 1, L
+Soft_Jock, "Woah, who is this?", 0, R
+Lilith, "Is this going to be a problem?", 1, L
+Soft_Jock, "....square up bro", 0, R
+Soft_Jock, "*agni kai begins*", 0, R
